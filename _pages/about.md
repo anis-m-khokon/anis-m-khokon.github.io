@@ -6,7 +6,7 @@ subtitle: Microbial Ecologist | Plant–Microbe Interactions | Bioinformatics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPG
   image_circular: true
   more_info: >
     <p><strong>Dr. Anis M. Khokon</strong></p>
