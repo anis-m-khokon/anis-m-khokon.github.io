@@ -10,8 +10,7 @@ profile:
   image_circular: true
   more_info: >
     <p><strong>Dr. Anis M. Khokon</strong></p>
-    <p>Oak Ridge National Laboratory</p>
-    <p>Oak Ridge, Tennessee, USA</p>
+    <p>Oak Ridge National Laboratory, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
