@@ -1,19 +1,19 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: Microbial Ecologist | Plant–Microbe Interactions | Bioinformatics
+subtitle: Microbial Ecology | Computational Biology | Bioinformatics
 
 profile:
   align: right
   image: prof_pic.JPG
-  image_circular: true
+  image_circular: false
   more_info: >
-    <p><strong>Dr. Anis M. Khokon</strong></p>
-    <p>Oak Ridge National Laboratory, USA</p>
+       <p><strong>Dr. Anis M. Khokon</strong></p>
+       <p>Oak Ridge National Laboratory, USA</p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: false
